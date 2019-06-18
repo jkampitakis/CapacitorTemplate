@@ -1,0 +1,7 @@
+{
+  "appId": "com.lazyland.capacitor",
+  "appName": "CapacitorTests",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
