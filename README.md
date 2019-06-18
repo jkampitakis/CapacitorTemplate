@@ -1,0 +1,2 @@
+# CapacitorTemplate
+A Capacitor Template
